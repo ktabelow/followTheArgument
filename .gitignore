@@ -1,0 +1,63 @@
+## ignore latex aux files
+## from https://gist.github.com/kogakure/149016
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.bcf
+*.fdb_latexmk
+*.fls
+*.run.xml
+*.xdv
+*.bib.bak
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+*.rel
+*.cb
+*.cb2
+
+## Latex output, secondary files
+
+## jabref
+*.bak
+*.sav
+## emacs
+auto/
+.\#*
+
+## temporary files, automatically created.
+*~
+## logfiles
+~*
+.~*
+
+## personal convention:
+*.bu
+
+## this:
+.DS_Store
+JustFrame.*
+
+## here you can put commands only executed on your machine, most prob.
+## an includeonly command for shortening compile time.
+includeonly.tex
+.Rhistory
+tmp.*
+.vscode/
