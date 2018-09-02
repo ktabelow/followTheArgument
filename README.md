@@ -25,6 +25,7 @@ Ich sehe zwei Bereiche, in denen wir vorwärts kommen sollten.
 * Wir sollten uns schlau machen, was überhaupt für Argumentationsfiguren existieren. Ich habe ein Hörbuch dazu, das finde ich nur leider gerade nicht.
 * Was für Analysemethoden und Visualisierungstools für Argumentationsstrukturen gibt es?
 * Wie umgehen mit unserer eigenen Meinung? (offen)
+* Wir bräuchten eine Website.
 
 ## Mögliche Themen ##
 
