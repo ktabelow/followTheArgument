@@ -20,19 +20,19 @@ Wie könnte ein typischer Podcast ablaufen:
 
 ## Todos ##
 
-Ich sehe zwei Bereiche, in denen wir vorwärts kommen sollten.
-
 * Wir sollten uns schlau machen, was überhaupt für Argumentationsfiguren existieren. Ich habe ein Hörbuch dazu, das finde ich nur leider gerade nicht.
 * Was für Analysemethoden und Visualisierungstools für Argumentationsstrukturen gibt es?
 * Wie umgehen mit unserer eigenen Meinung? (offen)
-* Wir bräuchten eine Website.
+* Wir bräuchten eine Website. Vorbild: [Lage Der Nation](https://www.kuechenstud.io/lagedernation/)
+* Wie macht man das eigentlich, podcasts zur Verfügung zu stellen, etc?
 
 ## Mögliche Themen ##
 
-* Wer soll als Deutsche/r zählen?
+* Wer soll als Deutsche/r zählen? (Wooha)
+* Sind Flüchtlinge krimineller als Deutsche (Whooha)?
 * Es sollte mehr direkte Demokratie geben.
 * Sprachgendern (whooha).
-* Straße X sollte umbenannt werden. (Das wäre nur von lokalem Interesse, es könnten sich aber Diskussionsteilnehmer finden lassen)
+* Straße X sollte umbenannt werden. (Das wäre nur von lokalem Interesse, es könnten sich aber Diskussionsteilnehmer finden lassen) Ein konkretes Beispiel wäre die Takustraße. Hier bestünde Berlinweites Interesse, aber kaum darüber hinaus, das wäre vielleicht ideal.
 
 ## Mögliche Teilnehmer ##
 
